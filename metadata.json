@@ -1,0 +1,5 @@
+{
+  "name": "AI Storyboard Video Generator",
+  "description": "An AI-powered video generator that transforms text into a visually narrated story. It creates images for scenes, adds the text as captions, and narrates it with a male voice, compiling everything into a video-like experience.",
+  "requestFramePermissions": []
+}
